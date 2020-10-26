@@ -3,6 +3,9 @@ A pipeline for Morphometric studies in 7T. Ideal for 3D shapes and Volumetry. Do
 
 **EXTRA**: for a Docker Mini-Guide check the appropriate attached file
 
+
+
+
 # Morphometry Pipeline:
 ## Mindboggle (SPM12-Fressurfer+ ANTs) pipeline
 >[Alessandro De Maio: demaio.1695400@studenti.uniroma1.it]
