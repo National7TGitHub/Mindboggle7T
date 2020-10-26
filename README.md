@@ -1,6 +1,7 @@
 # Mindboggle7T
 A pipeline for Morphometric studies in 7T. Ideal for 3D shapes and Volumetry. Double processing of T1 images in SPM12+Freesurfer and in ANTs for a Hybrid Segmentation fed to Mindboggle.
 
+**EXTRA**: for a Docker Mini-Guide check the appropriate attached file
 
 # Morphometry Pipeline:
 ## Mindboggle (SPM12-Fressurfer+ ANTs) pipeline
