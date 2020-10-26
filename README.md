@@ -23,6 +23,7 @@ On 3T images, the initial SPM bias field correction may not be necessary, since 
 
 ### Inputs:
 - T1 image
+(tested on T1 3D TFE at 0.8* 0.8* 0.8mm resolution)
 
 ### Outputs:
 - For each Gyrus MRI label:
