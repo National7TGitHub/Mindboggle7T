@@ -193,7 +193,7 @@ ___
 
 ### 3a) ASCII problem prevention and Variable selection
 -This exporting step is important otherwise mindboggle may crash, so update every time for every subject
-> - `locale-gen en_US.UTF-8`
+- `locale-gen en_US.UTF-8`
 - `export LANG=en_US.UTF-8 LANGUAGE=en_US.en LC_ALL=en_US.UTF-8`
 - `export ANTS_SUBJECT= [ANTsBrainSegmentation.nii.gz file, inside the main ANTs folder]`
 - `export FREESURFER_SUBJECT= [FS output folder]`
